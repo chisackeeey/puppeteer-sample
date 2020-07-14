@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chisackeeey/puppeteer-sample.git",
+  "author": "chisackeeey <chisaki_h@outlook.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.1.0"
+  }
+}
